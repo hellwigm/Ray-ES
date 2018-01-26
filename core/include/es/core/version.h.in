@@ -1,0 +1,22 @@
+/*! \file
+ *  \brief Contains version information for the project.
+ */
+
+#ifndef ES_CORE_VERSION_H
+#define ES_CORE_VERSION_H
+
+namenamespace es {
+namespace core {
+
+/*! Major version number */
+constexpr int VERSION_MAJOR = @es_VERSION_MAJOR@;
+/*! Minor version number */
+constexpr int VERSION_MINOR = @es_VERSION_MINOR@;
+/*! Patch number */
+constexpr int VERSION_PATCH = @es_VERSION_PATCH@;
+
+}
+}
+
+#endif
+
