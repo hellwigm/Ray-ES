@@ -1,7 +1,7 @@
 # Ray-ES
 
 This is the code Ray-ES of the supplementary material for the
-paper "A Novel and Simple Approach for Constrained Optimization -
+paper "A Simple Approach for Constrained Optimization -
 An Evolution Strategy that Evolves Rays" by Patrick Spettel and
 Hans-Georg Beyer.
 
